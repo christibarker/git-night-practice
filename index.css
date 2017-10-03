@@ -11,3 +11,7 @@ p {
 .float-left {
 	float: left;
 }
+
+ul {
+	list-style-type: none;
+}
